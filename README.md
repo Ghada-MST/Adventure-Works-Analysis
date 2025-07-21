@@ -1,5 +1,3 @@
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/9863569e-bdd3-4771-b01c-1d84f2923d67" />
-
 
 # Adventure-Works 
 Power BI project analyzing Adventure Works sales and performance metrics
