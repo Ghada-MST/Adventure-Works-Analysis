@@ -47,7 +47,7 @@ To enable better decision-making by providing a centralized, visual view of sale
 
 <img width="908" height="440" alt="Image" src="https://github.com/user-attachments/assets/ade9031e-6970-49e8-8fad-c798930533b6" />
 
-<img width="1428" height="799" alt="Image" src="https://github.com/user-attachments/assets/652c5d12-94f1-46ef-a0a5-e6c96a6dc1f6" />
+<img width="1419" height="796" alt="Screenshot 2025-07-29 232148" src="https://github.com/user-attachments/assets/1ba6fd7e-7103-4166-8970-af37f035d53f" />
 
 <img width="1427" height="800" alt="Image" src="https://github.com/user-attachments/assets/d115ded5-0c87-4340-8092-558b3010d92c" />
 
