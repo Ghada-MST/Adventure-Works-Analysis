@@ -41,25 +41,46 @@ A Power BI project that analyzes the Adventure Works sales dataset to uncover pe
 To enable better decision-making by providing a centralized, visual view of sales, product performance, and profitability metrics using real business-like data.
 
 ---
-<img width="1428" height="801" alt="Image" src="https://github.com/user-attachments/assets/38cc98a2-921c-4462-a556-dc80b733d70f" />
+<img width="929" height="785" alt="Image" src="https://github.com/user-attachments/assets/92317c7c-b33f-4376-9ac3-820d1936a1db" />
 
-<img width="1411" height="789" alt="Image" src="https://github.com/user-attachments/assets/04d6efe2-4cf4-4f7a-9c6a-d87c7fe44754" />
+<img width="795" height="698" alt="Image" src="https://github.com/user-attachments/assets/5d9fcd2c-fea4-4472-8865-c5ea00eee784" />
 
-<img width="1426" height="802" alt="Image" src="https://github.com/user-attachments/assets/7e8a7ad7-013d-4a5c-ada7-a180132a4f44" />
+<img width="908" height="440" alt="Image" src="https://github.com/user-attachments/assets/ade9031e-6970-49e8-8fad-c798930533b6" />
 
-<img width="1429" height="803" alt="Image" src="https://github.com/user-attachments/assets/5066beb4-e989-41ba-bac8-9f8c7c58f337" />
+<img width="1428" height="799" alt="Image" src="https://github.com/user-attachments/assets/652c5d12-94f1-46ef-a0a5-e6c96a6dc1f6" />
 
-<img width="1429" height="803" alt="Image" src="https://github.com/user-attachments/assets/9b66c648-2bf0-458a-bfba-0ed36320ac0f" />
+<img width="1427" height="800" alt="Image" src="https://github.com/user-attachments/assets/d115ded5-0c87-4340-8092-558b3010d92c" />
 
-<img width="1429" height="801" alt="Image" src="https://github.com/user-attachments/assets/daaffd04-850b-4820-9731-a9b8ba16a2b1" />
+<img width="1417" height="795" alt="Image" src="https://github.com/user-attachments/assets/5d0461a9-e2f8-42e3-a3d0-033d8a7a38c5" />
 
-<img width="1431" height="804" alt="Image" src="https://github.com/user-attachments/assets/9cc4acd5-be4a-4f17-80bf-a9a2d0909653" />
+<img width="1424" height="800" alt="Image" src="https://github.com/user-attachments/assets/4310f851-9627-440a-96e7-377f8f51e4f3" />
 
-<img width="1432" height="798" alt="Image" src="https://github.com/user-attachments/assets/92c9e1a9-3cb2-4c5d-97c9-3e8a05a90935" />
+<img width="1427" height="804" alt="Image" src="https://github.com/user-attachments/assets/ce1d1fab-72b0-4c87-90ac-e506789b1af9" />
 
-<img width="1432" height="792" alt="Image" src="https://github.com/user-attachments/assets/17e9267b-b411-4985-a712-bca812945c4e" />
+<img width="1430" height="798" alt="Image" src="https://github.com/user-attachments/assets/29082fc8-9bcb-4693-86e0-f4a895783200" />
 
-<img width="1430" height="805" alt="Image" src="https://github.com/user-attachments/assets/7869bfa2-ad2a-436e-b2c2-d180b0b596c1" />
+<img width="1427" height="800" alt="Image" src="https://github.com/user-attachments/assets/11c456b8-9835-4436-933f-5346069a420a" />
+
+<img width="1430" height="797" alt="Image" src="https://github.com/user-attachments/assets/a636524d-37ef-4c39-a918-153965ac2c36" />
+
+<img width="1426" height="805" alt="Image" src="https://github.com/user-attachments/assets/7f174be9-0109-4a81-bcd8-b6de714b8bf9" />
+
+<img width="1430" height="800" alt="Image" src="https://github.com/user-attachments/assets/518fbc2f-cbb9-403e-9000-f9c1f049c489" />
+
+<img width="1429" height="802" alt="Image" src="https://github.com/user-attachments/assets/679f6f04-3c61-4af5-a54b-b0cbff32fb8f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
